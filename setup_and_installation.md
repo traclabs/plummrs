@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Setup and Installation"
-description: Setup and installation of a Plummrs workspace
+#title: "Setup and Installation"
+#description: Setup and installation of a Plummrs workspace
 permalink: "/setup_installation"
 ---
 
