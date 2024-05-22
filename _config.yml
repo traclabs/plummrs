@@ -1,5 +1,5 @@
-title: Safe Planning for Robots
-description: Plummrs project
+title: A Collection of Plan Ledgers and Unified Maps for Multi-Robot Safety
+description: TRACLabs
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
