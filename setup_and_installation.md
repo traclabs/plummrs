@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Setup and Installation"
 permalink: "/setup_and_installation"
+---
 
 Requirements
 =============
