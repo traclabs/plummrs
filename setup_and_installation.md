@@ -1,16 +1,19 @@
 ---
+layout: default
 title: "Setup and Installation"
+description: Setup and installation of a Plummrs workspace
 permalink: "/setup_installation"
 ---
 
-Requirements
-=============
+## Setup and Installation
+
+### Requirements
+
 1. Machine: Ubuntu 20.04.
 2. ROS Noetic installed.
 3. Astrobee workspace installed.
 
-Steps:
-======
+### Steps:
 
 1. Clone the plummrs metapackage: 
    ```
@@ -28,3 +31,5 @@ Steps:
    source ~/ros/astrobee/devel/setup.bash
    catkin build -j4
    ```
+   
+[back](./)
