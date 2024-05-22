@@ -1,5 +1,4 @@
 ---
-layout: DefaultLayout
 title: "Setup and Installation"
 permalink: "/setup_installation"
 ---
