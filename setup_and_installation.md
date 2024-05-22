@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: DefaultLayout
 title: "Setup and Installation"
-permalink: "/setup_and_installation"
+permalink: "/setup_installation"
 ---
 
 Requirements
