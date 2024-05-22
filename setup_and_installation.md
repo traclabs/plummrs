@@ -23,6 +23,7 @@ permalink: "/setup_installation"
    ``` 
 2. Download the packages:
    ```
+   mkdir src
    vcs import src < src.repos
    vcs import src < robots.repos
    ```
