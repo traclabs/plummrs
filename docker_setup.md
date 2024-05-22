@@ -10,7 +10,7 @@ permalink: "/docker_setup"
 Coming up! I'll upload an image soon. For now, you can build locally
 the development image.
 
-### Build development image
+## Build development image
 
 1. Clone the docker repository:
    ```
