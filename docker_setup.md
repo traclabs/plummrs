@@ -27,4 +27,15 @@ the development image.
    ```
    This will take a while.
    
+4. Once it is built, you need to push the image to the ghcr.io registry. For 
+   this, you need to be signed in your machine and have a token with read-write permissions:
+   ```
+    docker login ghcr.io -u YOUR_USERNAME
+   ```
+   You'll be asked your password, give the TOKEN.
+5. Now you can push the image:
+   ```
+   docker push ghcr.io/traclabs/plummrs_docker:latest
+   ```
+    
 [back](./)
