@@ -4,3 +4,4 @@
 
 1. [Installation instructions](setup_and_installation.md)
 2. [Using Docker for Plummrs development](docker_setup.md)
+3. [Demo 1: Bumble and Honey performing an inspection](demo_inspection_bumble_honey.md)
