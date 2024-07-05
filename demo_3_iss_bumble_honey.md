@@ -5,6 +5,8 @@ layout: default
 permalink: "/demo_3_iss_bumble_honey"
 ---
 
+Note: Corresponding Page in Confluence is [here](https://traclabs.atlassian.net/wiki/spaces/PLUM/pages/2926706689/4.+Run+Humble+and+Honey+in+Gazebo)
+
 ### Steps:
 
 1. Open a terminal and go to the plummrs workspace, and source it e.g.: 
