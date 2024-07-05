@@ -6,5 +6,5 @@
 2. [Using Docker for Plummrs development](docker_setup.md)
 3. [Demos](demo_index.md)
    * [Demo 1: Bumble performing an inspection](demo_1_iss_bumble.md)
-   * [Demo 1: Bumble and Honey performing an inspection in parallel](demo_3_iss_bumble_honey.md)
+   * [Demo 3: Bumble and Honey performing an inspection in parallel](demo_3_iss_bumble_honey.md)
    * [Demo 12: Wannabee and Bsharp moving in Granite Lab](demo_12_granite_lab_wannabee_bsharp.md)
