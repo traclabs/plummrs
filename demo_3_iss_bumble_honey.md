@@ -2,7 +2,7 @@
 layout: default
 #title: "Demo: Inspection with Honey and Bumble"
 #description: Bumble and Honey running in Gazebo and performing a visual inspection of a set of waypoints
-permalink: "/demo_inspection_bumble_honey"
+permalink: "/demo_3_iss_bumble_honey"
 ---
 
 ### Steps:
@@ -35,7 +35,7 @@ permalink: "/demo_inspection_bumble_honey"
    ```
    roslaunch plummrs_craftsman_support demos_bt.launch
    ```
-7. Now you can start one of the demonstrations
+7. Now you can start one of the demonstrations, such as demo_3a_inspection.xml
    
    
 [back](./)
