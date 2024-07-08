@@ -10,4 +10,5 @@
    * [Demo 3: Bumble and Honey performing an inspection in parallel](demo_3_iss_bumble_honey.md)
    * [Demo 4: Bumble, Honey and R2](demo_4_iss_bumble_honey_r2.md)
    * [Demo 5: Bumble, Queen](demo_5_iss_bumble_queen.md)
+   * [Demo 6: Dual Panda](demo_6_dual_panda.md)
    * [Demo 12: Wannabee and Bsharp moving in Granite Lab](demo_12_granite_lab_wannabee_bsharp.md)
