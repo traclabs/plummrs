@@ -11,4 +11,5 @@
    * [Demo 4: Bumble, Honey and R2](demo_4_iss_bumble_honey_r2.md)
    * [Demo 5: Bumble, Queen](demo_5_iss_bumble_queen.md)
    * [Demo 6: Dual Panda](demo_6_dual_panda.md)
+   * [Demo 7: UR5 and Bumble](demo_7_iss_ur5_bumble.md)
    * [Demo 12: Wannabee and Bsharp moving in Granite Lab](demo_12_granite_lab_wannabee_bsharp.md)
